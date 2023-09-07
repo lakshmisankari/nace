@@ -1,7 +1,7 @@
 package com.assignment.test.nace;
 
 /**
- * @author Lakshmi Sankari .S
+ * @author Lakshmi Subbiah
  *
  */
 import org.junit.Test;
