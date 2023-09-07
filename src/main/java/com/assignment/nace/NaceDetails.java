@@ -1,5 +1,10 @@
 package com.assignment.nace;
 
+/**
+ * @author Lakshmi Subbiah
+ *
+ */
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
