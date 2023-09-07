@@ -1,7 +1,7 @@
 package com.assignment.nace;
 
 /**
- * @author Lakshmi Sankari .S
+ * @author Lakshmi Subbiah
  *
  */
 import org.springframework.boot.SpringApplication;
